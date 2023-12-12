@@ -10,6 +10,7 @@ A simple stopwatch web application developed by (https://www.linkedin.com/in/ger
 - ***Project Submission: Submitted to Prodigy Info Tech
 - ***Role :** Web Development Internship at Prodigy Infotech
 - **Copyright:** © 2023 Geremu Tilahun. All Rights Reserved.
+  
   Unauthorized copying or reproduction of this file, in part or whole,
   without express permission from the copyright owner is prohibited.
 
