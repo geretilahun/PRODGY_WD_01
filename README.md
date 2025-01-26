@@ -1,5 +1,4 @@
 
-# PRODIGY_WD_01
 # Responsive_Landing_WebPage
 
 A simple stopwatch web application developed by (https://www.linkedin.com/in/geremu-tilahun-regasa-865632237/).
